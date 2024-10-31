@@ -1,5 +1,5 @@
 import React from 'react';
-import CodeEdit from './indexReal.tsx';
+import CodeEdit from './editor.jsx';
 function App() {
   return (
     <div className="App">
